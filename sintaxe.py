@@ -1,8 +1,8 @@
-# esse é meu primeiro código em Python
+# this is my first saas in Python
 
 """
-    Sintaxe básica do Python
-    - Comentários são feitos com # ou com aspas triplas
+    Basic Python Syntax
+    - Comments are made with # or triple quotes
 """
 
-nome = "Cleiton" + "Souza"
+name = "Cleiton" + "Souza"
